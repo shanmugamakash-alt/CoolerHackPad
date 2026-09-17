@@ -1,36 +1,40 @@
-<h1>CoolerHackPad</h1>
-CoolerHackPad is a 6 key Hackpad which is more similar to a stream deck than a actual keyboard. VIA support will be added in the future to make it a actual competitor to the stream deck
-that you can build.
-____________________________________________________________________________________________________________________________________________________________________________________________
-<h1>Features:</h1>
-1. 6x Cherry key switches
-2. QMK support (VIA support will be added in the future)
-3. 2 piece case (Top layer and Base)
-4, Cool cutouts
-5, Abstract USB port
+# CoolerHackPad
 
-____________________________________________________________________________________________________________________________________________________________________________________________
+CoolerHackPad is a 6-key Hackpad designed as a DIY alternative to a Stream Deck rather than a standard keyboard. VIA support is planned for a future update to make it a fully customizable macro pad.
 
-<h1>3D Model:</h1>:
-It fits with m3 screws directly screwed in. I will be painting parts of it white to make it the "CoolerHackPad" that I want it to be.
+---
 
-I modeled the case with Fusion 360. It has 2 parts, the base to hold the PCB, Switcher and the controller and A top cover with some breathing holes for the PCB and cutouts for the keys.
+## Features
 
-<img width="515" height="320" alt="image" src="https://github.com/user-attachments/assets/06a74e78-cb7f-4698-b031-d51d1176eea6" />
+* **Switches:** 6x Cherry MX-compatible key switches
+* **Firmware:** QMK support (VIA support coming soon)
+* **Enclosure:** 2-piece case (Top cover and Base)
+* **Design:** Custom ventilation cutouts and styled USB port opening
 
-_____________________________________________________________________________________________________________________________________________________________________________________________
-<h1>PCB:</h1>:
+---
 
-<h3>Schematics:</h3>
-<img width="855" height="790" alt="image" src="https://github.com/user-attachments/assets/29279fcd-25ef-41b7-9eb4-528d1823af4d" />
+## 3D Model
 
-<h3>PCB Design:</h3>
-Will need to add after redisigns.
+The case was modeled in **Fusion 360** and consists of two parts:
+* **Base:** Holds the PCB, switches, and microcontroller. Fits together using M3 screws threaded directly into the plastic.
+* **Top Cover:** Features cutouts for the key switches and ventilation holes for the PCB.
 
-I did the designs in KiCad
-_____________________________________________________________________________________________________________________________________________________________________________________________
+*Note: Parts of the case will be painted white to match the intended design aesthetic.*
 
+![3D Model](https://github.com/user-attachments/assets/06a74e78-cb7f-4698-b031-d51d1176eea6)
 
-I made it with as much effort As I can, I will admit that I did have AI help me figure out the controls for both KiCAD and Fusion 360. 
-It also helped me figure out where the necessary items like where can i find the move button in Fusion 360 and how do I make a Circuit board cutout in KiCad. 
-I also did use AI for the firmware when I was confused how to format the keymap.c file. but all the code and models where done by me and only me.
+---
+
+## PCB
+
+### Schematics
+![PCB Schematic](https://github.com/user-attachments/assets/29279fcd-25ef-41b7-9eb4-528d1823af4d)
+
+### PCB Design
+Designed in **KiCad**. *(Updated PCB layout designs will be added after upcoming revisions.)*
+
+---
+
+## Development Notes
+
+This project was built entirely from scratch. AI assistance was used for software navigation and documentation reference—specifically for locating tools in KiCad and Fusion 360 (e.g., finding the move tool in Fusion 360, creating edge cutouts in KiCad) and formatting the QMK `keymap.c` firmware file. All hardware designs, 3D models, and code implementation were created independently.
