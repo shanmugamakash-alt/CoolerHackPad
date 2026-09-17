@@ -3,11 +3,11 @@ CoolerHackPad is a 6 key Hackpad which is more similar to a stream deck than a a
 that you can build.
 ____________________________________________________________________________________________________________________________________________________________________________________________
 <h1>Features:</h1>
-    1. 6x Cherry key switches
-    2. QMK support (VIA support will be added in the future)
-    3. 2 piece case (Top layer and Base)
-    4, Cool cutouts
-    5, Abstract USB port
+1. 6x Cherry key switches
+2. QMK support (VIA support will be added in the future)
+3. 2 piece case (Top layer and Base)
+4, Cool cutouts
+5, Abstract USB port
 
 ____________________________________________________________________________________________________________________________________________________________________________________________
 
