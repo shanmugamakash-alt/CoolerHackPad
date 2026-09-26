@@ -28,10 +28,11 @@ The case was modeled in **Fusion 360** and consists of two parts:
 ## PCB
 
 ### Schematics
-![PCB Schematic](https://github.com/user-attachments/assets/29279fcd-25ef-41b7-9eb4-528d1823af4d)
+![PCB Schematic](<img width="899" height="512" alt="image" src="https://github.com/user-attachments/assets/98cb23ef-8c03-4c60-926f-80ed144ffa9f" />)
 
 ### PCB Design
-<img width="1004" height="632" alt="image" src="https://github.com/user-attachments/assets/15edd661-7193-4a2c-bebf-ffa7ca1507f0" />
+<img width="706" height="432" alt="image" src="https://github.com/user-attachments/assets/0514638e-0b4f-4a1f-b1d4-d0aff03244fb" />
+
 
 Designed in **KiCad**.
 
